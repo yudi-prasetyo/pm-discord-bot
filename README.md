@@ -1,1 +1,1 @@
-# pm-discord-bot
+# Project Management Discord Bot
